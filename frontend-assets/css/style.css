@@ -691,13 +691,8 @@ button {
 .text-eclipsis-3 {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-
-.text-eclipsis-3 {
-  -webkit-line-clamp: 3;
 }
 
 @media (max-width: 1204px) {

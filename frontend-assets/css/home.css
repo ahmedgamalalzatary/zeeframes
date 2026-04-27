@@ -68,12 +68,6 @@
     background-color: var(--color-white-04)
 }
 
-.insights-wraper {
-    margin-top: 48px;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 32px
-}
 
 .insight {
     border: 1px solid var(--color-black-650);
@@ -123,10 +117,6 @@
     .md-w-full {
         width: 100%
     }
-
-    .insights-wraper {
-        grid-template-columns: repeat(2, 1fr)
-    }
 }
 
 @media(min-width:576px) {
@@ -169,9 +159,5 @@
     .gradient-section {
         padding-top: 32px;
         padding-bottom: 0
-    }
-
-    .insights-wraper {
-        grid-template-columns: 1fr
     }
 }

@@ -572,14 +572,6 @@
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
-.insightSwiper .swiper-slide {
-    padding-top: 6px;
-    padding-bottom: 6px;
-}
-
-.insightSwiper .swiper-slide.swiper-slide-active {
-    padding-left: 6px;
-}
 
 .animated-insight:hover h3,
 .animated-insight:hover h4 {
