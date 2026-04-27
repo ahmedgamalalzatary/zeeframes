@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://zeeframes.com/sitemap.xml
-Sitemap: https://zeeframes.com/insight_sitemap.xml
